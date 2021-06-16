@@ -98,19 +98,19 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 - 와이어프레임
 
-![image-20210319001812808](README.assets\image-20210319001812808.png)
+![image-20210319001812808](README.assets/image-20210319001812808.png)
 
 
 
 - 스토리보드
 
-![image-20210319001713529](README.assets\image-20210319001713529.png)
+![image-20210319001713529](README.assets/image-20210319001713529.png)
 
 
 
 - 테스트
 
-![image-20210319001854639](README.assets\image-20210319001854639.png)
+![image-20210319001854639](README.assets/image-20210319001854639.png)
 
 
 
@@ -118,48 +118,48 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 - 메인화면
 
-![](README.assets\웹 메인.png)
+![웹 메인](README.assets/%EC%9B%B9%20%EB%A9%94%EC%9D%B8.png)
 
-![image-20210319004305026](README.assets\image-20210319004305026.png)
+![image-20210319004305026](README.assets/image-20210319004305026.png)
 
 
 
 - 회원가입 / 로그인
 
-![](README.assets\회원가입.png)
+![회원가입](README.assets/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
 
-![](README.assets\로그인.png)
+![로그인](README.assets/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
 
 
 - 일정관리
 
-![](README.assets\월간 달력.png)
+![월간 달력](README.assets/%EC%9B%94%EA%B0%84%20%EB%8B%AC%EB%A0%A5.png)
 
-![](README.assets\주간 달력.png)
+![주간 달력](README.assets/%EC%A3%BC%EA%B0%84%20%EB%8B%AC%EB%A0%A5.png)
 
-![](README.assets\일정 추가.png)
+![일정 추가](README.assets/%EC%9D%BC%EC%A0%95%20%EC%B6%94%EA%B0%80.png)
 
 
 
 - 오늘의 뉴스
 
-![](README.assets\오늘의 뉴스.png)
+![오늘의 뉴스](README.assets/%EC%98%A4%EB%8A%98%EC%9D%98%20%EB%89%B4%EC%8A%A4.png)
 
 
 
 - 주식
 
-![](README.assets\주식.png)
+![주식](README.assets/%EC%A3%BC%EC%8B%9D.png)
 
 
 
 - 코로나, 날씨
 
-![](README.assets\코로나, 날씨.png)
+![코로나, 날씨](README.assets/%EC%BD%94%EB%A1%9C%EB%82%98,%20%EB%82%A0%EC%94%A8.png)
 
 
 
 - 챗봇
 
-![image-20210319004556830](README.assets\image-20210319004556830.png)
+![image-20210319004556830](README.assets/image-20210319004556830.png)

@@ -90,25 +90,27 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 ## :page_facing_up: 산출물
 
-- 기능정의서![image-20210319001616736](.\README.assets\image-20210319001616736.png)
+- 기능정의서
+
+![image-20210319001616736](README.assets/image-20210319001616736.png)
 
 
 
 - 와이어프레임
 
-![image-20210319001812808](.\README.assets\image-20210319001812808.png)
+![image-20210319001812808](README.assets\image-20210319001812808.png)
 
 
 
 - 스토리보드
 
-![image-20210319001713529](.\README.assets\image-20210319001713529.png)
+![image-20210319001713529](README.assets\image-20210319001713529.png)
 
 
 
 - 테스트
 
-![image-20210319001854639](.\README.assets\image-20210319001854639.png)
+![image-20210319001854639](README.assets\image-20210319001854639.png)
 
 
 
@@ -116,48 +118,48 @@ https://optimistic-swirles-b97b6b.netlify.app/
 
 - 메인화면
 
-![](.\README.assets\웹 메인.png)
+![](README.assets\웹 메인.png)
 
-![image-20210319004305026](.\README.assets\image-20210319004305026.png)
+![image-20210319004305026](README.assets\image-20210319004305026.png)
 
 
 
 - 회원가입 / 로그인
 
-![](.\README.assets\회원가입.png)
+![](README.assets\회원가입.png)
 
-![](.\README.assets\로그인.png)
+![](README.assets\로그인.png)
 
 
 
 - 일정관리
 
-![](.\README.assets\월간 달력.png)
+![](README.assets\월간 달력.png)
 
-![](.\README.assets\주간 달력.png)
+![](README.assets\주간 달력.png)
 
-![](C:\Users\qbw00\Documents\pjt\Wintersoldier\README.assets\일정 추가.png)
+![](README.assets\일정 추가.png)
 
 
 
 - 오늘의 뉴스
 
-![](.\README.assets\오늘의 뉴스.png)
+![](README.assets\오늘의 뉴스.png)
 
 
 
 - 주식
 
-![](.\README.assets\주식.png)
+![](README.assets\주식.png)
 
 
 
 - 코로나, 날씨
 
-![](.\README.assets\코로나, 날씨.png)
+![](README.assets\코로나, 날씨.png)
 
 
 
 - 챗봇
 
-![image-20210319004556830](.\README.assets\image-20210319004556830.png)
+![image-20210319004556830](README.assets\image-20210319004556830.png)
